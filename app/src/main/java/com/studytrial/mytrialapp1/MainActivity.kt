@@ -7,6 +7,8 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+
+        //ini buatan nanda
     }
 
     fun newFun (){
@@ -17,6 +19,8 @@ class MainActivity : AppCompatActivity() {
         //fungsi baru belum kelar lagi
     }
 
+
+    // Ini buatan Nanda
 
     fun newFun3 (){
         //fungsi baru johan
