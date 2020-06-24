@@ -10,4 +10,13 @@ class MainActivity : AppCompatActivity() {
 
         //stash
     }
+
+    fun newFun (){
+        //fungsi baru belum kelar
+    }
+
+    fun newFun2 (){
+        //fungsi baru belum kelar lagi
+    }
+
 }
