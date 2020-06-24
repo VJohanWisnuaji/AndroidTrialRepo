@@ -22,5 +22,10 @@ class MainActivity : AppCompatActivity() {
 
     // Ini buatan Nanda
 
+    fun newFun3 (){
+        //fungsi baru johan
+    }
+
+
     // nanda
 }
