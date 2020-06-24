@@ -17,4 +17,9 @@ class MainActivity : AppCompatActivity() {
         //fungsi baru belum kelar lagi
     }
 
+
+    fun newFun3 (){
+        //fungsi baru johan
+    }
+
 }
