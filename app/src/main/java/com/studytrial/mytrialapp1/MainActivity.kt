@@ -21,4 +21,6 @@ class MainActivity : AppCompatActivity() {
 
 
     // Ini buatan Nanda
+
+    // nanda
 }
