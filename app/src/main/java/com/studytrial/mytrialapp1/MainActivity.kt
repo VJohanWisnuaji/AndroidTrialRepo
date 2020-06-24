@@ -19,4 +19,6 @@ class MainActivity : AppCompatActivity() {
         //fungsi baru belum kelar lagi
     }
 
+
+    // Ini buatan Nanda
 }
