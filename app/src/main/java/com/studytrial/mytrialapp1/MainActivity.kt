@@ -28,4 +28,5 @@ class MainActivity : AppCompatActivity() {
 
 
     // nanda
+        // Komenan johan branch master
 }
