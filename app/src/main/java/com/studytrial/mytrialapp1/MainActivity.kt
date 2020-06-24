@@ -26,4 +26,5 @@ class MainActivity : AppCompatActivity() {
         //fungsi baru johan
     }
 
+        // Komenan johan branch master
 }
