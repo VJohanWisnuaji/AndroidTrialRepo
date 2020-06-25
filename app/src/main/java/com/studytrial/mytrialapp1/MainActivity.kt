@@ -31,4 +31,5 @@ class MainActivity : AppCompatActivity() {
         // Komenan johan branch master
 
     //Comment ditambahkan, branch dari development
+    // Tambahan branch local johan
 }
