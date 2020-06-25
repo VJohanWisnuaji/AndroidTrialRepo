@@ -1,0 +1,14 @@
+Index: app/src/main/java/com/studytrial/mytrialapp1/MainActivity.kt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/java/com/studytrial/mytrialapp1/MainActivity.kt	(revision 54cc0f901d38ebfc94c2ca0c31bf230b28f66c36)
++++ app/src/main/java/com/studytrial/mytrialapp1/MainActivity.kt	(date 1593002942857)
+@@ -30,4 +30,5 @@
+     // nanda
+         // Komenan johan branch master
+     // Tambahan branch local johan
++    // Cek Patch 
+ }
+\ No newline at end of file
