@@ -29,4 +29,6 @@ class MainActivity : AppCompatActivity() {
 
     // nanda
         // Komenan johan branch master
+
+    //Comment ditambahkan, branch dari development
 }
