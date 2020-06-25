@@ -31,4 +31,9 @@ class MainActivity : AppCompatActivity() {
         // Komenan johan branch master
 
     //Comment ditambahkan, branch dari development
+
+    fun release5 (){
+        //fungsi baru johan
+    }
+
 }
